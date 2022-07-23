@@ -1,4 +1,4 @@
-### Bruh
+### 👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹
 
 Currently working on - A blog/media website using sveltekit, docker, and AWS Fargate Serverless.
 
