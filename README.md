@@ -1,6 +1,6 @@
 ### 👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹👹
 
-Currently working on - A blog/media website using sveltekit, docker, and AWS Fargate Serverless.
+Currently working on - A blog/media website using sveltekit, tailwindcss, docker, and AWS Fargate Serverless.
 
 Also working on - College!
 
